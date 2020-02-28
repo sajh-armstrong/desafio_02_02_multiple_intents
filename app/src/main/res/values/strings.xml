@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Desafio_02_02_Multiples_Intents</string>
+    <string name="main_title">Sección de carga de imágenes</string>
+    <string name="load_image">Cargar Imagen</string>
+    <string name="next">Siguiente</string>
+</resources>
