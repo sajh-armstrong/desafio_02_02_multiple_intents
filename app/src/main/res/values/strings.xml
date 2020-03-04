@@ -3,4 +3,8 @@
     <string name="main_title">Sección de carga de imágenes</string>
     <string name="load_image">Cargar Imagen</string>
     <string name="next">Siguiente</string>
+    <string name="button_web">Abrir Web</string>
+    <string name="button_share">Compartir</string>
+    <string name="warning_hasnot_loaded_image">Por favor cargue una foto antes de continuar</string>
+    <string name="website">https://desafiolatam.com</string>
 </resources>
