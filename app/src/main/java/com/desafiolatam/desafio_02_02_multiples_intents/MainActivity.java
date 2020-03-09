@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
     private void resultIntent(){
         Intent intent = new Intent(this, ResultActivity.class);
         intent.putExtra("HAS_LOADED_IMAGE", hasLoadedImage);
-        intent.putExtra("WEBSITE", R.string.website);
+        intent.putExtra("WEBSITE", getResources().getString(R.string.website));
         startActivity(intent);
         //TODO arreglar website
     }
